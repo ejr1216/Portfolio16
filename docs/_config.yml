@@ -1,0 +1,16 @@
+title: Eduardo J. Rodriguez
+description: Automation, RPA, Solutions, AI/ML
+theme: jekyll-theme-minimal
+
+url: "https://ejr1216.github.io"
+baseurl: "/portfolio"
+
+header_pages:
+  - highlights.md
+  - projects.md
+  - case-studies.md
+  - resume.md
+  - contact.md
+
+github:
+  repository_url: https://github.com/ejr1216/portfolio
